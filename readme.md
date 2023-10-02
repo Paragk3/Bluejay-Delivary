@@ -10,6 +10,3 @@
 **Installation**
 ### install python using below command:###
 ```pip install python``
-### install openpyxl###
-``` pip3 install openpyxl ## or use pip if you are on windows```
-### Maintain proper configuration before run otherwise You can encounter an error### 
